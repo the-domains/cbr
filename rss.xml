@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[cbr]]></title>
         <description><![CDATA[cbr]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cbr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 18:15:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 Nov 2015 18:25:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cbr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bosham's Classic Boat Revival 2016 dates announced]]></title>
+            <description><![CDATA[<article><h1>Bosham's Classic Boat Revival 2016 dates announced</h1><p>Classic Boat Revival dates are confirmed as 10th & 11th September 2016</p></article>]]></description>
+            <link>https://thegrid.ai/cbr/boshams-classic-boat-revival-2016-dates-announced/index.html</link>
+            <guid isPermaLink="false">b73b9c2c-5e1b-4297-9d0c-d63b577592d7</guid>
+            <pubDate>Mon, 23 Nov 2015 18:25:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/cbr/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">501e89f5-5131-493a-938e-2c0bcc0b9f4e</guid>
             <pubDate>Mon, 23 Nov 2015 18:15:24 GMT</pubDate>
         </item>
